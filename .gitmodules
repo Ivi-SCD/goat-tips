@@ -1,0 +1,12 @@
+[submodule "goat-tips-frontend"]
+	path = goat-tips-frontend
+	url = https://github.com/MarcosvBueno/goat-tips-frontend.git
+[submodule "goat-tips-backend"]
+	path = goat-tips-backend
+	url = https://github.com/Ivi-SCD/goat-tips-backend.git
+[submodule "goat-tips-app-retrain-model"]
+	path = goat-tips-app-retrain-model
+	url = https://github.com/Ivi-SCD/goat-tips-app-retrain-model.git
+[submodule "goat-tips-app-daily-fetch"]
+	path = goat-tips-app-daily-fetch
+	url = https://github.com/Ivi-SCD/goat-tips-app-daily-fetch.git
