@@ -5,7 +5,7 @@
 
 Plataforma de análise preditiva para futebol com dados ao vivo, modelo estatístico, agentes de IA e interface web.
 
-[![Status](https://img.shields.io/badge/status-MVP%20D20desenvolvimento20desenvolvimentoESENVOLVIDO-0a7ea4?style=for-the-badge)](https://github.com/Ivi-SCD/goat-tips)
+[![Status](https://img.shields.io/badge/status-MVP%20Desenvolvido-0a7ea4?style=for-the-badge)](https://github.com/Ivi-SCD/goat-tips)
 [![Stars](https://img.shields.io/github/stars/Ivi-SCD/goat-tips?style=for-the-badge)](https://github.com/Ivi-SCD/goat-tips/stargazers)
 [![License](https://img.shields.io/badge/license-MIT-111111?style=for-the-badge)](./LICENSE)
 [![Backend](https://img.shields.io/badge/backend-online-198754?style=for-the-badge)](https://goat-tips-backend-api.27s4ihbbhmjf.us-east.codeengine.appdomain.cloud)
