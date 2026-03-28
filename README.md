@@ -9,7 +9,7 @@ Plataforma de análise preditiva para futebol com dados ao vivo, modelo estatís
 [![Stars](https://img.shields.io/github/stars/Ivi-SCD/goat-tips?style=for-the-badge)](https://github.com/Ivi-SCD/goat-tips/stargazers)
 [![License](https://img.shields.io/badge/license-MIT-111111?style=for-the-badge)](./LICENSE)
 [![Backend](https://img.shields.io/badge/backend-online-198754?style=for-the-badge)](https://goat-tips-backend-api.27s4ihbbhmjf.us-east.codeengine.appdomain.cloud)
-[![Frontend](https://img.shields.io/badge/frontend-em%20breve-f59f00?style=for-the-badge)](#modulos-do-repositorio)
+[![Frontend](https://img.shields.io/badge/frontend-online-198754?style=for-the-badge)](https://goat-tips.vercel.app/)
 
 </div>
 
